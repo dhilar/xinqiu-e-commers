@@ -1,5 +1,17 @@
-<<<<<<< HEAD
+
 # xinqiu-e-commers
+merupakan website e commers yang saya buat dengan framewrok laravel 10 dengan konten dan isi yang dinamis serta saya telah menambahkan data dummy sebagi contoh
+# cara menginstal
+
+1. salin link repository
+2. git clone dengan link repoitory tersebut
+3. install composer
+4. file $env.example di ubah menjadi .env
+5. sesuaikan nama database pada file .env
+6. jangan lupa migrate :
+7. php artisan key:generate
+8. php artisan serve
+9. selamat mencoba
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
